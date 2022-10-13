@@ -1,2 +1,3 @@
-# opn-design.github.io
-Shareable static assets for @opn-design packages.
+# opndx.github.io
+
+Shareable static assets for @opndx packages.
